@@ -1,3 +1,3 @@
-# bierbuechli_maintenance_page
+# omloh_maintenance_page
 
 D Maintenance Siite för omloh.ch
