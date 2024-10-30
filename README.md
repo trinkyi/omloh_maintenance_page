@@ -1,3 +1,3 @@
-# omloh_maintenance_page
+# bierbuechli_maintenance_page
 
-D Maintenance Siite för omloh.ch
+A new Flutter project.
