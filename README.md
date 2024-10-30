@@ -1,3 +1,3 @@
 # bierbuechli_maintenance_page
 
-A new Flutter project.
+D Maintenance Siite för omloh.ch
